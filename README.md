@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**JH5466/JH5466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developing my IT skills through structured labs, system configuration exercises, and troubleshooting projects. My goal is to build a clear, practical portfolio that reflects the work I'm doing every day to grow in the field.
 
-Here are some ideas to get you started:
+More detailed documentation can be found inside each repository, which contains screenshots, notes, and clear explanations of the labs and projects I've completed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+Windows 10/11 • Troubleshooting • Networking Basics • Active Directory • System Configuration • User Account Management • Ticketing System • Active Directory Basics
+
+# Fun Facts 
+
+• I have a dog.
+• I enjoy fixing things and understanding the "why" behind how they work. 
+• I enjoy playing video games
+• I enjoy working out 
